@@ -1,0 +1,11 @@
+{
+  "Name": "Antelope",
+  "Version": "2.1",
+  "Author": "eddie",
+  "Dependencies": [
+    {
+      "Name": "IDL",
+      "Version": "^8.0"
+    }
+  ]
+}
